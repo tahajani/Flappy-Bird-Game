@@ -24,4 +24,4 @@ OS: Windows 7 or later
 Processor: 1.5 GHz or faster
 Memory: 2 GB RAM
 Graphics: Basic graphics card supporting 2D rendering
-Java Runtime: Bundled with the game (no need to install Java separately)
+Java Runtime: Requires Java Runtime Environment to run it.
